@@ -1,6 +1,7 @@
 # Review-scraper
 
-This code extracts reviews of different products available on nykaa.com and stores them in database (MongoDB)
+This code extracts reviews of different products available on nykaa.com and stores them in database (MongoDB).
+
 Libraries used :
         Beautiful Soup 
         Selenium 
