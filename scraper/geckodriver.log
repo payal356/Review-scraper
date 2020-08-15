@@ -1,0 +1,9 @@
+1597477499548	geckodriver	INFO	Listening on 127.0.0.1:51589
+1597477502630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--headless" "window-size=1920,1080" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\PAYALA~1\\AppData\\Local\\Temp\\rust_mozprofileiAuac9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597477505475	Marionette	INFO	Listening on port 51597
+1597477505746	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
